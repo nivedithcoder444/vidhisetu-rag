@@ -1,0 +1,58 @@
+[
+    {
+        "id": "Q01",
+        "category": "exact_lookup",
+        "query": "Section 73 of Indian Contract Act",
+        "expected_act": "Indian Contract Act 1872",
+        "expected_section": 73
+    },
+    {
+        "id": "Q02",
+        "category": "exact_lookup",
+        "query": "Section 3 Arms Act 1959",
+        "expected_act": "Arms Act 1959",
+        "expected_section": 3
+    },
+    {
+        "id": "Q03",
+        "category": "natural_language",
+        "query": "What is the compensation for loss or damage caused by breach of contract?",
+        "expected_act": "Indian Contract Act 1872",
+        "expected_section": 73
+    },
+    {
+        "id": "Q04",
+        "category": "natural_language",
+        "query": "What is the punishment for culpable homicide not amounting to murder?",
+        "expected_act": "Bns",
+        "expected_section": [105, 103, 302]
+    },
+    {
+        "id": "Q05",
+        "category": "synonym",
+        "query": "What is the penalty for unlawful possession of firearms and guns?",
+        "expected_act": "Arms Act 1959",
+        "expected_section": [3, 25, 28, 46]
+    },
+    {
+        "id": "Q06",
+        "category": "synonym",
+        "query": "remedy for non-performance of agreement and damages",
+        "expected_act": null,
+        "expected_section": [73, 74, 42]
+    },
+    {
+        "id": "Q07",
+        "category": "ambiguous",
+        "query": "What does section 3 say?",
+        "expected_act": null,
+        "expected_section": 3
+    },
+    {
+        "id": "Q08",
+        "category": "absent_evidence",
+        "query": "What is the maximum legal limit for cryptocurrency mining under the Bharatiya Nyaya Sanhita 2023?",
+        "expected_act": null,
+        "expected_section": null
+    }
+]

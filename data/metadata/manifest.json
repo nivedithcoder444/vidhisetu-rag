@@ -1,0 +1,274 @@
+[
+    {
+        "original_zip_entry": "AI Agent.pdf",
+        "extracted_filename": "AI Agent.pdf",
+        "target_path": "data/raw/extracted/AI Agent.pdf",
+        "file_size": 40535,
+        "sha256": "cc31825bbb37077235db2e1c1cd2cd9a579ec8db97d33480173046d030e90006",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "arms act 1959.pdf",
+        "extracted_filename": "arms act 1959.pdf",
+        "target_path": "data/raw/extracted/arms act 1959.pdf",
+        "file_size": 411531,
+        "sha256": "93bf306afce4d51b0bf794c10efd0554e2c7b7604ab46a75e9ca4bb328e59c47",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "bns.pdf",
+        "extracted_filename": "bns.pdf",
+        "target_path": "data/raw/extracted/bns.pdf",
+        "file_size": 1115210,
+        "sha256": "d4449e9995b21fd52627811d08f9d21feda6a3678b7e5355b651242d152167f5",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "bnss.pdf",
+        "extracted_filename": "bnss.pdf",
+        "target_path": "data/raw/extracted/bnss.pdf",
+        "file_size": 2872470,
+        "sha256": "572c79880b9f8effc8fa6e39b864101835a0fb5d85b194b90a99d170121a0562",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "bsa.pdf",
+        "extracted_filename": "bsa.pdf",
+        "target_path": "data/raw/extracted/bsa.pdf",
+        "file_size": 642831,
+        "sha256": "554b2b4ae3d9f09bf31e6e1ba2b2cb8a4e7f4f5ffd6f3156736752cbbce116d5",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "code of civil procedure 1908.pdf",
+        "extracted_filename": "code of civil procedure 1908.pdf",
+        "target_path": "data/raw/extracted/code of civil procedure 1908.pdf",
+        "file_size": 4532621,
+        "sha256": "393b8848fdfc476a21cc3abf4f0d3f510557e2dff6fc6914b1f379bea1730614",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "constitution.pdf",
+        "extracted_filename": "constitution.pdf",
+        "target_path": "data/raw/extracted/constitution.pdf",
+        "file_size": 2684622,
+        "sha256": "4c8e93689ec245e26db08e22b5ff3ad645c98736f0e5b7c8b6638acd7861f85b",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "criminal procedure (identification)act 2022.pdf",
+        "extracted_filename": "criminal procedure (identification)act 2022.pdf",
+        "target_path": "data/raw/extracted/criminal procedure (identification)act 2022.pdf",
+        "file_size": 276159,
+        "sha256": "40699486598650ea2a4d5992181b98e81633f6864351e5778eec1481946bdbc2",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "disaster management act 2005.pdf",
+        "extracted_filename": "disaster management act 2005.pdf",
+        "target_path": "data/raw/extracted/disaster management act 2005.pdf",
+        "file_size": 662311,
+        "sha256": "208566d57b7dce562f929e5783a0d2607cba42f1c1f89d3be8229057811b4049",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "dowry prohibition.pdf",
+        "extracted_filename": "dowry prohibition.pdf",
+        "target_path": "data/raw/extracted/dowry prohibition.pdf",
+        "file_size": 201392,
+        "sha256": "d29bf14c8e7cffe5914086e1ce832b34467150caa2c66aee0fd107deba764dea",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "extradition act 1962.pdf",
+        "extracted_filename": "extradition act 1962.pdf",
+        "target_path": "data/raw/extracted/extradition act 1962.pdf",
+        "file_size": 489996,
+        "sha256": "70f9316ab853eef916830ed61b4efd0cfe7c4e05e19637f9ecd972f918aa6854",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "fugitve economic offenders act 2018.pdf",
+        "extracted_filename": "fugitve economic offenders act 2018.pdf",
+        "target_path": "data/raw/extracted/fugitve economic offenders act 2018.pdf",
+        "file_size": 339162,
+        "sha256": "cbbfdda3ec9bff7c760a71e7e51ce29090234597c4e97076a689dac9298e395f",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "immoral traffic (prevention) act 1956.pdf",
+        "extracted_filename": "immoral traffic (prevention) act 1956.pdf",
+        "target_path": "data/raw/extracted/immoral traffic (prevention) act 1956.pdf",
+        "file_size": 365642,
+        "sha256": "6120dd7bc3e4d07e1de4a893fa640c7c67f937e77e1e4c357e322de6ae38a5fe",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "indian contract act 1872.pdf",
+        "extracted_filename": "indian contract act 1872.pdf",
+        "target_path": "data/raw/extracted/indian contract act 1872.pdf",
+        "file_size": 712769,
+        "sha256": "85a7a066098255c93001d678aeaf483f91d3080918363c03b78d40c3eeb8b386",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "indian easements acts 1882.pdf",
+        "extracted_filename": "indian easements acts 1882.pdf",
+        "target_path": "data/raw/extracted/indian easements acts 1882.pdf",
+        "file_size": 290766,
+        "sha256": "5b5d1e024607bffb9e5860d437a26d9a19f5708173e4a23916b8ccf42bc66a61",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "ipc_sections.csv",
+        "extracted_filename": "ipc_sections.csv",
+        "target_path": "data/raw/extracted/ipc_sections.csv",
+        "file_size": 410197,
+        "sha256": "66b8183aea37ae657f48a665bd4285f0609f63f60a9c8a0cb406f073d9d8eb50",
+        "file_type": "csv"
+    },
+    {
+        "original_zip_entry": "juvenile justice act 2015.pdf",
+        "extracted_filename": "juvenile justice act 2015.pdf",
+        "target_path": "data/raw/extracted/juvenile justice act 2015.pdf",
+        "file_size": 565758,
+        "sha256": "d21c39b496757d19d873207dfbed3729128ca34c0daff199cb808ea32b49a322",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "limitation act 1963.pdf",
+        "extracted_filename": "limitation act 1963.pdf",
+        "target_path": "data/raw/extracted/limitation act 1963.pdf",
+        "file_size": 507563,
+        "sha256": "f04b51220f8f7ec97a1d7e8c73f14f37a91e8b300361db4b006b7d8226e31ed6",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "narcotics act 1985.pdf",
+        "extracted_filename": "narcotics act 1985.pdf",
+        "target_path": "data/raw/extracted/narcotics act 1985.pdf",
+        "file_size": 994959,
+        "sha256": "76ce71e4b6bde49c2fd9708f78e148aef6590b1a63500c57eed54b461df76c7b",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "national security act 1980.pdf",
+        "extracted_filename": "national security act 1980.pdf",
+        "target_path": "data/raw/extracted/national security act 1980.pdf",
+        "file_size": 86853,
+        "sha256": "89e3acd637d24529ac4d6cf7a60a3a6cdf618044511ebe89623e821eead81031",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "NIA act 2008.pdf",
+        "extracted_filename": "NIA act 2008.pdf",
+        "target_path": "data/raw/extracted/NIA act 2008.pdf",
+        "file_size": 319333,
+        "sha256": "b2879a408fccfb3ea0f14a69f54fdf5561cbebc3274b443a4390a2e801b9af1d",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "official secrets act.pdf",
+        "extracted_filename": "official secrets act.pdf",
+        "target_path": "data/raw/extracted/official secrets act.pdf",
+        "file_size": 346161,
+        "sha256": "081cf7023abe2af60cc51d7ecadfe260d07effa0fd893def723558ffcd5935a0",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "pocso act 2012.pdf",
+        "extracted_filename": "pocso act 2012.pdf",
+        "target_path": "data/raw/extracted/pocso act 2012.pdf",
+        "file_size": 349647,
+        "sha256": "5a173cc87d51624663dceb588d20a468ef49505be4fa131609d5867ac7dab021",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "prevention of corruption act.pdf",
+        "extracted_filename": "prevention of corruption act.pdf",
+        "target_path": "data/raw/extracted/prevention of corruption act.pdf",
+        "file_size": 472793,
+        "sha256": "7696d19f33678c31a805f8acb05ac115f73229a0c75b0c0ca134dc34f3effca7",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "prisoners act 1900.pdf",
+        "extracted_filename": "prisoners act 1900.pdf",
+        "target_path": "data/raw/extracted/prisoners act 1900.pdf",
+        "file_size": 264012,
+        "sha256": "ecd24dc15f263bca7d8fea92d4af1ccc368ea5247d9d16f824f01e8d4c58fb3e",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "prisons act 1894.pdf",
+        "extracted_filename": "prisons act 1894.pdf",
+        "target_path": "data/raw/extracted/prisons act 1894.pdf",
+        "file_size": 364461,
+        "sha256": "5f82dd35600b3e3bb8b3f9083e1415c52968c8c2be463447c00a22a3fa822504",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "probation of offenders acts 1958.pdf",
+        "extracted_filename": "probation of offenders acts 1958.pdf",
+        "target_path": "data/raw/extracted/probation of offenders acts 1958.pdf",
+        "file_size": 192152,
+        "sha256": "8162f2077a8cf507848d9fd69f422347650f4666118fbf2b71b7f8d713bfcba8",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "protection of civil rights act 1955.pdf",
+        "extracted_filename": "protection of civil rights act 1955.pdf",
+        "target_path": "data/raw/extracted/protection of civil rights act 1955.pdf",
+        "file_size": 310917,
+        "sha256": "7551434993577db135f0a8d09807cdf7838c34571e74ea0d3fee94b6ce849e72",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "prvention of money laundering act 2002.pdf",
+        "extracted_filename": "prvention of money laundering act 2002.pdf",
+        "target_path": "data/raw/extracted/prvention of money laundering act 2002.pdf",
+        "file_size": 866340,
+        "sha256": "7c346efc01050956cf2014b8967348c26fb6d6c947f6721cd33c6a7b993560ea",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "registration act 1908.pdf",
+        "extracted_filename": "registration act 1908.pdf",
+        "target_path": "data/raw/extracted/registration act 1908.pdf",
+        "file_size": 870914,
+        "sha256": "736a9560fb7c323874e79d3a4a884f36ca979a30dab73110cdabe2662ae35a22",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "sc and st act 1989.pdf",
+        "extracted_filename": "sc and st act 1989.pdf",
+        "target_path": "data/raw/extracted/sc and st act 1989.pdf",
+        "file_size": 427093,
+        "sha256": "ee5a4fc8c8f5afbd0c514a7ed87ed050ba635edf54f7b5b8ad3f48ac6ec90ea4",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "specifc relief act 1963.pdf",
+        "extracted_filename": "specifc relief act 1963.pdf",
+        "target_path": "data/raw/extracted/specifc relief act 1963.pdf",
+        "file_size": 300764,
+        "sha256": "6785305b261cbbde103f8e68b6ace98dabc7a180b1eb621c94fa20186420939a",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "transfer of property act 1882.pdf",
+        "extracted_filename": "transfer of property act 1882.pdf",
+        "target_path": "data/raw/extracted/transfer of property act 1882.pdf",
+        "file_size": 690838,
+        "sha256": "28f73f2e4ab32913b7bd2c1d46fba41f4dd86ba845502823cc47d77cace3b623",
+        "file_type": "pdf"
+    },
+    {
+        "original_zip_entry": "unlawful activities(prevention) act 1967.pdf",
+        "extracted_filename": "unlawful activities(prevention) act 1967.pdf",
+        "target_path": "data/raw/extracted/unlawful activities(prevention) act 1967.pdf",
+        "file_size": 687395,
+        "sha256": "aaa7f3bc761ec6254d2571717cc13a4b045fa002edcd4f3ce59017b2fbe8e40c",
+        "file_type": "pdf"
+    }
+]

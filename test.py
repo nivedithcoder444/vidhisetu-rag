@@ -1,0 +1,1 @@
+print("LexNova RAG environment is working!"

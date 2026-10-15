@@ -1,0 +1,25 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Processed embeddings and large data
+*.npy
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
